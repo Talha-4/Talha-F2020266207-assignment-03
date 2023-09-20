@@ -1,0 +1,28 @@
+/* style.css */
+
+.footer {
+    background: #212529;;
+    color: #f4f4f4;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .social-media-links .social-icon {
+    margin: 0 1rem; /* Increase space between icons */
+    font-size: 2rem; /* Reduce icon size */
+  }
+  
+  .social-media-links .social-icon:hover {
+    color: #bbdefb; /* Change hover color */
+  }
+  
+  .social-media-links a {
+    color: #f4f4f4;
+    text-decoration: none;
+    margin: 0 1rem; /* Adjust space between links */
+  }
+  
+  .social-media-links a:hover {
+    color: #bbdefb;
+  }
+  

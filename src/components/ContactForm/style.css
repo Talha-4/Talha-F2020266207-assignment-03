@@ -1,0 +1,81 @@
+/* Styles for the contact form within the ContactForm component */
+
+.contact-form {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .contact-form .form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .contact-form .lg-heading {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .contact-form .text-gray {
+    color: #777;
+  }
+  
+  .contact-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .contact-form .form-group label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  .contact-form .form-group input,
+  .contact-form .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .contact-form .form-btn {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contact-form .form-btn:hover {
+    background-color: #555;
+  }
+  
+  .contact-form .company-address {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .contact-form .company-address .address-group {
+    text-align: center;
+  }
+  
+  .contact-form .company-address .address-group p {
+    margin: 10px 0 0;
+  }
+  
+  .contact-form .company-address .company-image {
+    max-width: 150px;
+    border-radius: 10px;
+  }
+  
